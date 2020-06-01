@@ -23,7 +23,7 @@ class App extends Component {
               </Navbar>
               <Directory campsites={this.state.campsites} />
           </div>
-      );
+      ); 
   }
 }
 
